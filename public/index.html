@@ -1,1 +1,32 @@
+<!DOCTYPE>
+<html>
+<head>
+  <title>MEAN and FUSION</title>
+</head>
+<body>
+    <center>
+	<h1>Chart will appear Below</h1>
+    <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/angular.js/1.3.14/angular.min.js"></script>
+	<script type="text/javascript" src="fusioncharts/js/fusioncharts.js"></script>
+    <script type="text/javascript" src="fusioncharts/js/fusioncharts.charts.js"></script>
+    <script type="text/javascript" src="fusioncharts/js/fusioncharts.gantt.js"></script>
+    <script type="text/javascript" src="fusioncharts/js/fusioncharts.maps.js"></script>
+    <script type="text/javascript" src="fusioncharts/js/fusioncharts.powercharts.js"></script>
+    <script type="text/javascript" src="fusioncharts/js/fusioncharts.treemap.js"></script>
+    <script type="text/javascript" src="fusioncharts/js/fusioncharts.widgets.js"></script>
+    <script type="text/javascript" src="fusioncharts/js/fusioncharts.zoomscatter.js"></script>
+    <script type="text/javascript" src="fusioncharts/js/themes/fusioncharts.theme.ocean.js"></script>
 
+
+	<script type="text/javascript" src="angular/angular-fusioncharts.min.js"></script>
+    <script src="controllers/controller.js"></script>
+    	
+	<div class="container" ng-app="myApp" ng-controller="AppCtrl">
+    	<fusioncharts width="800" height="600" type="column2d" datasource="{{myDataSource}}"></fusioncharts>
+    </div>
+    </center>
+
+
+
+</body>
+</html>
