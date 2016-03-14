@@ -1,0 +1,70 @@
+{
+    "_id" : ObjectId("56b1dee1ac6c0fe54f84e438"),
+    "month" : "Jan",
+    "petrol" : 64.72,
+    "diesel" : 52.49
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("56b1dee1ac6c0fe54f84e439"),
+    "month" : "Feb",
+    "petrol" : 62.81,
+    "diesel" : 50.72
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("56b1dee1ac6c0fe54f84e43a"),
+    "month" : "Mar",
+    "petrol" : 66.18,
+    "diesel" : 54.06
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("56b1dee1ac6c0fe54f84e43b"),
+    "month" : "Apr",
+    "petrol" : 65.17,
+    "diesel" : 51.74
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("56b1dee1ac6c0fe54f84e43c"),
+    "month" : "May",
+    "petrol" : 72.94,
+    "diesel" : 57.23
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("56b1dee1ac6c0fe54f84e43d"),
+    "month" : "Jun",
+    "petrol" : 73.77,
+    "diesel" : 55.83
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("56b1dee1ac6c0fe54f84e43e"),
+    "month" : "Jul",
+    "petrol" : 70.7,
+    "diesel" : 52.59
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("56b1dee1ac6c0fe54f84e43f"),
+    "month" : "Aug",
+    "petrol" : 66.72,
+    "diesel" : 47.54
+}
+
+/* 9 */
+{
+    "_id" : ObjectId("56b1dee1ac6c0fe54f84e440"),
+    "month" : "Sept",
+    "petrol" : 64.61,
+    "diesel" : 47.02
+}
