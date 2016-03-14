@@ -8,3 +8,11 @@ Make sure that you have following modules installed in the local node-modules fo
 2.express
 
 3.mongojs
+
+Values to be put in the database are provided in the .txt file present.you can use your values and change the code accordingly.
+
+Be sure that you have required modules in the node-modules folder.
+
+Make sure mongo mongod is running.
+
+Any problems ,please post it here.
