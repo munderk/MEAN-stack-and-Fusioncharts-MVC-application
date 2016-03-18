@@ -15,4 +15,4 @@ Be sure that you have required modules in the node-modules folder.
 
 Make sure mongo mongod is running.
 
-Any problems ,please post it here.
+Any problems, please let me know.
